@@ -1,0 +1,16 @@
+{
+    "templates": [
+        {
+            "id": 1,
+            "name": "vegany",
+            "imageUrl": "https://i.postimg.cc/XvsvDr8j/minisite2.png",
+            "demo": "https://nooio.github.io/minisites-delivery/site-1"
+        },
+        {
+            "id": 2,
+            "name": "gopizza",
+            "imageUrl": "https://i.postimg.cc/65zWfv13/minisite1.png",
+            "demo": "https://nooio.github.io/minisites-delivery/site-2"
+        }
+    ]
+}
