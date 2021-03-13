@@ -12,5 +12,97 @@
             "imageUrl": "https://i.postimg.cc/65zWfv13/minisite1.png",
             "demo": "https://nooio.github.io/minisites-delivery/site-2"
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Trio Bourbon Artesanal",
+            "category": "fast-food",
+            "price": "48,09",
+            "redirect": "#",
+            "deliveryName": "Bob's Porto Seguro",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/54dce9d4-b5d8-4ead-be6b-244bccecf61f/202101190756_mLqx_.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Batata Canoa Mega",
+            "category": "fast-food",
+            "price": "18,09",
+            "redirect": "#",
+            "deliveryName": "Bob's Porto Seguro",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/54dce9d4-b5d8-4ead-be6b-244bccecf61f/202101190905_pREV_.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Sundae Clássico",
+            "category": "fast-food",
+            "price": "11,09",
+            "redirect": "#",
+            "deliveryName": "Mc Donalds",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/54dce9d4-b5d8-4ead-be6b-244bccecf61f/202101190859_8EkB_.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Milkshake 1 litro 20% desconto",
+            "category": "fast-food",
+            "price": "19,90",
+            "redirect": "#",
+            "deliveryName": "Bob's Porto Seguro",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/54dce9d4-b5d8-4ead-be6b-244bccecf61f/202101270933_Ogsp_.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Trio Bourbon Artesanal",
+            "category": "fast-food",
+            "price": "48,09",
+            "redirect": "#",
+            "deliveryName": "Bob's Porto Seguro",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/54dce9d4-b5d8-4ead-be6b-244bccecf61f/202101190756_mLqx_.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Shake de Salmão",
+            "category": "japanese-food",
+            "price": "24,00",
+            "redirect": "#",
+            "deliveryName": "Wasabi Sushi",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/b4238bce-63fd-4ba7-81dd-0d82e1b8cee8/202008131226_hK6D_m.png"
+        },
+        {
+            "id": 7,
+            "name": "Uramaki Kani",
+            "category": "japanese-food",
+            "price": "1,00",
+            "redirect": "#",
+            "deliveryName": "Hayato Sushi",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/3dd4ad53-0022-4df0-a6a2-c7037064b24f/202006271306_ygOS__.jpg"
+        },
+        {
+            "id": 8,
+            "name": "DJow de Salmão",
+            "category": "japanese-food",
+            "price": "3,50",
+            "redirect": "#",
+            "deliveryName": "Hayato Sushi",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/3dd4ad53-0022-4df0-a6a2-c7037064b24f/202006271257_6beA_j.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Filadélfia",
+            "category": "japanese-food",
+            "price": "30,00",
+            "redirect": "#",
+            "deliveryName": "Hayato Sushi",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/3dd4ad53-0022-4df0-a6a2-c7037064b24f/202007272143_8wxC_s.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Shake de Salmão",
+            "category": "japanese-food",
+            "price": "24,00",
+            "redirect": "#",
+            "deliveryName": "Wasabi Sushi",
+            "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/b4238bce-63fd-4ba7-81dd-0d82e1b8cee8/202008131226_hK6D_m.png"
+        }
     ]
 }
