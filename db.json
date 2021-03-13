@@ -104,5 +104,23 @@
             "deliveryName": "Wasabi Sushi",
             "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/b4238bce-63fd-4ba7-81dd-0d82e1b8cee8/202008131226_hK6D_m.png"
         }
+    ],
+    "deliveries": [
+        {
+            "id": 1,
+            "name": "GoPizza",
+            "location": {
+                "latitude": -16.4211531,
+                "longitude": -39.0845193
+            }
+        },
+        {
+            "id": 2,
+            "name": "Vegany",
+            "location": {
+                "latitude": -16.4433756,
+                "longitude": -39.0742196
+            }
+        }
     ]
 }
