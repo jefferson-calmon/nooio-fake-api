@@ -122,5 +122,45 @@
                 "longitude": -39.0742196
             }
         }
-    ]
+    ],
+    "restaurant": {
+        "result": {
+            "id": "0da99f74-2092-4ae8-9e7e-74315106d8a0",
+            "joined_on": "2021-07-16T14:25:49.000Z",
+            "location_id": "c7456d0f-a9dd-4193-8da3-e44cd9084b7f",
+            "template_id": "49d8fac7-e0bd-4612-b371-d36417fbe1d3",
+            "user_id": "6189b889-3bcc-462f-b0e5-43c6085c3683",
+            "color_pattern_id": "1fcb98e7-bac5-4065-b0c7-eb912ba0f2f0",
+            "category_id": "ae2f665f-8d3a-46a7-b32b-788e010cbb8c",
+            "pix_key": "09326253554",
+            "name": "NoBurguer",
+            "about": "O NoBurguer é a melhor hamburgueria do mundo.",
+            "email": "any_email@mail.com",
+            "phone_number": "73988597392",
+            "street_number": 1,
+            "whatsapp_number": "73988597392",
+            "facebook": null,
+            "instagram": null,
+            "subdomain": "bk",
+            "cnpj": "13740686000107",
+            "legal_name": "NoBurguer LTDA.",
+            "slogan": "O hambúrguer mais gostoso do mundo",
+            "image_url": "https://example.com/image.jpg",
+            "keywords": "",
+            "delivery_apps": "ifood, rappi",
+            "products": [],
+            "location": {
+              "id": "c7456d0f-a9dd-4193-8da3-e44cd9084b7f",
+              "city": "Porto Seguro",
+              "zip_code": "45810000",
+              "street": "Rua Divino Lar",
+              "state": "Bahia"
+            },
+            "category": {
+              "id": "ae2f665f-8d3a-46a7-b32b-788e010cbb8c",
+              "name": "Burguer"
+            },
+            "working_days": []
+        }
+    }
 }
