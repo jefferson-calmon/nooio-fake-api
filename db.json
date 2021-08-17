@@ -162,6 +162,13 @@
                     "image": "https://i.ibb.co/10SLXWc/raze-duplo.jpg"
                 },
                 {
+                    "id": "0da99f74-2092-4ae8-9e7e-74315we6d8a0",
+                    "name": "Hambúrguer Vegano Empanado",
+                    "description": "Duplo queijo, duplo bacon, dupla carne com 150g de carne cada, duplo molho barbecue, dupla cebola caramelizada, maionese especial e salada",
+                    "price": 35,
+                    "image": "https://i.ibb.co/hg0MrsW/matilda-vegano-wellington-nemeth-1.jpg"
+                },
+                {
                     "id": "85ec004b-46f5-4ece-92f3-578a61a20da5",
                     "name": "Petiscos",
                     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis animi voluptatem itaque nesciunt numquam nisi sint maiores nemo assumenda, ea perspiciatis pariatur veritatis aliquam iste natus voluptate ex debitis. Tenetur.",
