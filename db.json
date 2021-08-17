@@ -143,7 +143,7 @@
             "image_url": "",
             "keywords": "",
             "delivery_apps": "*",
-            "shippingCost": 2,
+            "shippingCost": 3,
             "promotion": {
                 "id": "cd15bfc1-9be1-44e5-8b4b-44cd8c931fc5",
                 "name": "Pizza | Frango Barbecue",
