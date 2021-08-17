@@ -126,41 +126,97 @@
     "restaurant": {
         "result": {
             "id": "0da99f74-2092-4ae8-9e7e-74315106d8a0",
-            "joined_on": "2021-07-16T14:25:49.000Z",
-            "location_id": "c7456d0f-a9dd-4193-8da3-e44cd9084b7f",
-            "template_id": "49d8fac7-e0bd-4612-b371-d36417fbe1d3",
-            "user_id": "6189b889-3bcc-462f-b0e5-43c6085c3683",
-            "color_pattern_id": "1fcb98e7-bac5-4065-b0c7-eb912ba0f2f0",
-            "category_id": "ae2f665f-8d3a-46a7-b32b-788e010cbb8c",
+            "user_id": "0da99f74-2092-4ae8-9e7e-74315106d8a0",
             "pix_key": "09326253554",
-            "name": "NoBurguer",
-            "about": "O NoBurguer é a melhor hamburgueria do mundo.",
-            "email": "any_email@mail.com",
+            "name": "Zé Delivery",
+            "about": "O Zé Delivery é um reconhecido como um dos melhores deliveries de Curitiba, contamos com um equipe de profissionais aptos e treinados para levar o melhor até você, desde a cozinha e o preparo até a entrega.",
+            "email": "zedelivery@gmail.com",
             "phone_number": "73988597392",
-            "street_number": 1,
             "whatsapp_number": "73988597392",
             "facebook": null,
             "instagram": null,
-            "subdomain": "bk",
-            "cnpj": "13740686000107",
-            "legal_name": "NoBurguer LTDA.",
-            "slogan": "O hambúrguer mais gostoso do mundo",
-            "image_url": "https://example.com/image.jpg",
+            "subdomain": "zedelivery",
+            "template": "noburger",
+            "cnpj": "89.949.669/0001-38",
+            "legal_name": "Zé Delivery Alimentícios Ltda.",
+            "slogan": "Zé Delivery | Feito para você",
+            "image_url": "",
             "keywords": "",
-            "delivery_apps": "ifood, rappi",
-            "products": [],
+            "delivery_apps": "*",
+            "promotion": {
+                "id": "cd15bfc1-9be1-44e5-8b4b-44cd8c931fc5",
+                "name": "Pizza | Frango Barbecue",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis animi voluptatem itaque nesciunt numquam nisi sint maiores nemo assumenda, ea perspiciatis pariatur veritatis aliquam iste natus voluptate ex debitis. Tenetur.",
+                "price": 40,
+                "image": "https://cache.dominos.com/wam/prod/market/BR/_pt/images/promo/3c41f559-d1a3-477c-9357-006ba4936a88.png",
+                "promotion_new_price": 29.9,
+                "promotion_start_on": "2021-12-06"
+            },
+            "products": [
+                {
+                    "id": "0da99f74-2092-4ae8-9e7e-74315106d8a0",
+                    "name": "Hambúrguer Lord Duplo",
+                    "description": "Duplo queijo, duplo bacon, dupla carne com 150g de carne cada, duplo molho barbecue, dupla cebola caramelizada, maionese especial e salada",
+                    "price": 23,
+                    "image": "https://i.ibb.co/10SLXWc/raze-duplo.jpg"
+                },
+                {
+                    "id": "85ec004b-46f5-4ece-92f3-578a61a20da5",
+                    "name": "Petiscos",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis animi voluptatem itaque nesciunt numquam nisi sint maiores nemo assumenda, ea perspiciatis pariatur veritatis aliquam iste natus voluptate ex debitis. Tenetur.",
+                    "price": 40,
+                    "image": "https://www.baressp.com.br/barreporter/imgs2/petiscos-para-bares-e-botecos-baressp-1-min_210520201658.jpg"
+                }
+            ],
             "location": {
-              "id": "c7456d0f-a9dd-4193-8da3-e44cd9084b7f",
-              "city": "Porto Seguro",
-              "zip_code": "45810000",
-              "street": "Rua Divino Lar",
-              "state": "Bahia"
+                "id": "0da99f74-2092-4ae8-9e7e-74315106d8a0",
+                "city": "Cuiabá",
+                "zip_code": "78050-080",
+                "street": "R. Topázio, 371 - Bosque da Saúde",
+                "street_number": 371,
+                "state": "MT"
             },
             "category": {
-              "id": "ae2f665f-8d3a-46a7-b32b-788e010cbb8c",
-              "name": "Burguer"
+                "id": "0da99f74-2092-4ae8-9e7e-74315106d8a0",
+                "name": ""
             },
-            "working_days": []
+            "working_days": [
+                {
+                    "name": "Segunda-feira",
+                    "opens_at": "-0:00",
+                    "closes_at": "-0:00"
+                },
+                {
+                    "name": "Terça-feira",
+                    "opens_at": "06:00",
+                    "closes_at": "16:00"
+                },
+                {
+                    "name": "Quarta-feira",
+                    "opens_at": "06:00",
+                    "closes_at": "16:00"
+                },
+                {
+                    "name": "Quinta-feira",
+                    "opens_at": "06:00",
+                    "closes_at": "16:00"
+                },
+                {
+                    "name": "Sexta-feira",
+                    "opens_at": "06:00",
+                    "closes_at": "16:00"
+                },
+                {
+                    "name": "Sábado",
+                    "opens_at": "06:00",
+                    "closes_at": "16:00"
+                },
+                {
+                    "name": "Domingo",
+                    "opens_at": "06:00",
+                    "closes_at": "16:00"
+                }
+            ]
         }
     }
 }
