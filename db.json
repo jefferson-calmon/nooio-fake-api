@@ -137,6 +137,7 @@
             "instagram": null,
             "subdomain": "zedelivery",
             "template": "noburger",
+            "shippingCost": 3,
             "cnpj": "89.949.669/0001-38",
             "legal_name": "Zé Delivery Alimentícios Ltda.",
             "slogan": "Zé Delivery | Feito para você",
